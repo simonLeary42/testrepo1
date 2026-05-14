@@ -1,0 +1,3 @@
+[submodule "testrepo1"]
+	path = testrepo1
+	url = https://github.com/simonLeary42/testrepo1
